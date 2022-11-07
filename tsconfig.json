@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        //lib  指定代码运行时所包含的库（宿主环境）
+        //module 设置编译后代码使用的模块化系统
+        "module": "ES6",
+        "strict": true,
+        "noEmitOnError": true
+    }
+}
